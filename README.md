@@ -1,4 +1,4 @@
-# search-index-88e8bf
+# search-index-609217
 
 A Rust search-index utility.
 
